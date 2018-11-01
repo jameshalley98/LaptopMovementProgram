@@ -1,0 +1,12 @@
+C:\Users\jhalley\Documents\Visual Studio 2017\Projects\LaptopLoaning\LaptopLoaning\bin\Debug\LaptopLoaning.exe.config
+C:\Users\jhalley\Documents\Visual Studio 2017\Projects\LaptopLoaning\LaptopLoaning\bin\Debug\LaptopLoaning.exe
+C:\Users\jhalley\Documents\Visual Studio 2017\Projects\LaptopLoaning\LaptopLoaning\bin\Debug\LaptopLoaning.pdb
+C:\Users\jhalley\Documents\Visual Studio 2017\Projects\LaptopLoaning\LaptopLoaning\bin\Debug\LaptopLoaning.xml
+C:\Users\jhalley\Documents\Visual Studio 2017\Projects\LaptopLoaning\LaptopLoaning\obj\Debug\LaptopLoaning.vbprojAssemblyReference.cache
+C:\Users\jhalley\Documents\Visual Studio 2017\Projects\LaptopLoaning\LaptopLoaning\obj\Debug\LaptopLoaning.Form1.resources
+C:\Users\jhalley\Documents\Visual Studio 2017\Projects\LaptopLoaning\LaptopLoaning\obj\Debug\LaptopLoaning.Resources.resources
+C:\Users\jhalley\Documents\Visual Studio 2017\Projects\LaptopLoaning\LaptopLoaning\obj\Debug\LaptopLoaning.vbproj.GenerateResource.cache
+C:\Users\jhalley\Documents\Visual Studio 2017\Projects\LaptopLoaning\LaptopLoaning\obj\Debug\LaptopLoaning.vbproj.CoreCompileInputs.cache
+C:\Users\jhalley\Documents\Visual Studio 2017\Projects\LaptopLoaning\LaptopLoaning\obj\Debug\LaptopLoaning.exe
+C:\Users\jhalley\Documents\Visual Studio 2017\Projects\LaptopLoaning\LaptopLoaning\obj\Debug\LaptopLoaning.xml
+C:\Users\jhalley\Documents\Visual Studio 2017\Projects\LaptopLoaning\LaptopLoaning\obj\Debug\LaptopLoaning.pdb
